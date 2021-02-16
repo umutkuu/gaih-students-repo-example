@@ -3,7 +3,7 @@
 
 **Course Date:** 15.02.1995  
 **Name:** Umut
-**Surname:** Utku  
+**Surname:** Utku
 **Email:** uumutku@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
